@@ -8,7 +8,7 @@ const apiEmail = "prisbeige@freesourcecodes.com"; // Ganti dengan email yang kal
 const accountID = "2bcf9e6cd7c10b8459eb14cdcadd96cf"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "aa03cc8e36afef40c65cc3a0220a5bce"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "";
+let proxyIP = "172.232.239.249";
 let cachedProxyList = [];
 
 // Constant
